@@ -1,2 +1,2 @@
 # EstudandoGUI
-Apenas para testar
+Apenas para testar HUB+GUI
