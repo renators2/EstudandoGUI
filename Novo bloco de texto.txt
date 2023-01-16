@@ -1,0 +1,4 @@
+#Bloco de texto apenas para testar novamente
+metal.bet
+metal.bet <- data.frame(c ("One Punch Man", "Tareu", "Garou"))
+metal.bet 
